@@ -1,4 +1,3 @@
-
 ## Hello, Hola, Olá!!
 ### Eu sou Alejandra Moreno, criadora de conteúdo de PROGRAMAÇÃO.
 
